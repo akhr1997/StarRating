@@ -12,12 +12,3 @@ function stars(e) {
     }
     // rate_num.innerHTML = myval;
 }
-
-// const stars = document.querySelectorAll(".star")
-
-// for(let i=0; i<stars.length; i++){
-//     stars[i].addEventListener('click', function(){
-    
-//     stars[i].classList.add('active');
-
-// })}
